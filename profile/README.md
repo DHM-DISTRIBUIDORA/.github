@@ -1,8 +1,10 @@
-## Introducción a DHM-DISTRIBUIDORA Wiki
+## Introducción a DHM-DISTRIBUIDORA
 
+![logo 1](https://github.com/DHM-DISTRIBUIDORA/.github/assets/7370358/5a64bff1-5c8e-4d50-8ad8-de38b5d9897d)
 
 
 Bienvenido a la Wiki oficial de DHM-DISTRIBUIDORA, la guía definitiva y fuente de conocimientos para nuestra avanzada y versátil plataforma de distribución. DHM-DISTRIBUIDORA se dedica a revolucionar la industria de la distribución al proporcionar soluciones digitales innovadoras y efectivas para optimizar las operaciones de los negocios y satisfacer las demandas del cliente del siglo XXI.
+
 
 Nuestra plataforma se basa en un robusto y eficaz sistema de backend desarrollado en Java, que sirve como la espina dorsal de todas nuestras operaciones de distribución. Este sistema alimenta nuestra base de datos, gestiona inventarios, coordina las entregas y se encarga de un sinfín de funciones cruciales para nuestro negocio.
 
