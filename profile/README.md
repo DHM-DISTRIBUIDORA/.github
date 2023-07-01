@@ -1,4 +1,4 @@
-## Introducción a DHM-DISTRIBUIDORA
+# DHM-DISTRIBUIDORA
 
 ![logo 1](https://github.com/DHM-DISTRIBUIDORA/.github/assets/7370358/5a64bff1-5c8e-4d50-8ad8-de38b5d9897d)
 
