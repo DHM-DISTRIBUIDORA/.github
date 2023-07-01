@@ -4,4 +4,4 @@
 
 Aqui puedes encontrar todo lo necesario sobre la gestion de la app movil y la integracion y la app.
 
-Wiky
+[Visite nuestra wiky](https://github.com/DHM-DISTRIBUIDORA/.github/wiki/Server)
