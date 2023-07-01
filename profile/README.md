@@ -15,3 +15,7 @@ Una de las integraciones más destacadas es nuestra aplicación móvil, desarrol
 En esta Wiki, encontrará una extensa documentación y guías de usuario sobre todos los aspectos de nuestro sistema, desde el uso de nuestra API y la integración de sistemas de terceros, hasta la navegación y el uso de nuestra aplicación móvil. Esperamos que esta Wiki sea una valiosa fuente de conocimientos y soporte para todos nuestros usuarios y desarrolladores.
 
 ¡Bienvenidos a la revolución digital de la distribución con DHM-DISTRIBUIDORA!
+
+Ahora vamos a nuestra [Wiki](https://github.com/DHM-DISTRIBUIDORA/.github/wiki)
+
+Buena suerte!!!
