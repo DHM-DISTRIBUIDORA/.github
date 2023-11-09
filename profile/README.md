@@ -16,6 +16,6 @@ En esta Wiki, encontrará una extensa documentación y guías de usuario sobre t
 
 ¡Bienvenidos a la revolución digital de la distribución con DHM-DISTRIBUIDORA!
 
-Ahora vamos a nuestra [Wiki](https://github.com/DHM-DISTRIBUIDORA/.github/wiki)
+Ahora vamos a nuestra [wiki](https://github.com/DHM-DISTRIBUIDORA/.github/wiki/manual)
 
 Buena suerte!!!
