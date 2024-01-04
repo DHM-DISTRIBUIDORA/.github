@@ -1,21 +1,48 @@
-# DHM-DISTRIBUIDORA
+# Manual de uso para DHM App
 
-![logo 1](https://github.com/DHM-DISTRIBUIDORA/.github/assets/7370358/5a64bff1-5c8e-4d50-8ad8-de38b5d9897d)
-
-
-Bienvenido a la Wiki oficial de DHM-DISTRIBUIDORA, la guía definitiva y fuente de conocimientos para nuestra avanzada y versátil plataforma de distribución. DHM-DISTRIBUIDORA se dedica a revolucionar la industria de la distribución al proporcionar soluciones digitales innovadoras y efectivas para optimizar las operaciones de los negocios y satisfacer las demandas del cliente del siglo XXI.
+![image](https://github.com/DHM-DISTRIBUIDORA/.github/assets/7370358/a3e90cca-dc02-4a91-a1af-32c4899f9891)
 
 
-Nuestra plataforma se basa en un robusto y eficaz sistema de backend desarrollado en Java, que sirve como la espina dorsal de todas nuestras operaciones de distribución. Este sistema alimenta nuestra base de datos, gestiona inventarios, coordina las entregas y se encarga de un sinfín de funciones cruciales para nuestro negocio.
+# ¡Presentamos la nueva aplicación de DHM Distribuidora!
 
-Además, la plataforma DHM-DISTRIBUIDORA ofrece una interfaz de programación de aplicaciones (API) de Java altamente segura y fácil de usar que facilita la integración con una variedad de aplicaciones de terceros y sistemas internos. Esta API, documentada y mantenida de manera exhaustiva, proporciona un puente entre nuestra base de datos y otras aplicaciones, permitiendo una sincronización de datos en tiempo real y un intercambio eficiente de información.
+![DALL·E 2023-10-19 23 33 13 - Foto moderna y elegante mostrando un smartphone con la pantalla de la aplicación DHM Distribuidora abierta, rodeado de productos diversos  En el fondo](https://github.com/DHM-DISTRIBUIDORA/.github/assets/7370358/d72f4342-d216-412f-ace9-b22ac924a2b6)
 
-Una de las integraciones más destacadas es nuestra aplicación móvil, desarrollada en React Native. Esta aplicación permite a los usuarios acceder a nuestros servicios y productos de forma remota, ofreciendo una interfaz de usuario intuitiva y funcional que es tanto amigable para el usuario como altamente eficaz. Con su interconexión con nuestra API de Java, la aplicación móvil ofrece a los usuarios una visión en tiempo real de nuestros productos, inventarios, tiempos de entrega y mucho más.
 
-En esta Wiki, encontrará una extensa documentación y guías de usuario sobre todos los aspectos de nuestro sistema, desde el uso de nuestra API y la integración de sistemas de terceros, hasta la navegación y el uso de nuestra aplicación móvil. Esperamos que esta Wiki sea una valiosa fuente de conocimientos y soporte para todos nuestros usuarios y desarrolladores.
 
-¡Bienvenidos a la revolución digital de la distribución con DHM-DISTRIBUIDORA!
+¿Estás listo para llevar tu experiencia de compra y distribución al siguiente nivel? Con la nueva aplicación de DHM Distribuidora, todo se vuelve más sencillo y eficiente. Ya no solo podrás realizar tus pedidos con unos pocos toques en la pantalla, sino que también te brindamos herramientas poderosas para gestionar la distribución de esos productos.
 
-Ahora vamos a nuestra [wiki](https://github.com/DHM-DISTRIBUIDORA/.github/wiki/manual)
+Una de las características más destacadas es nuestra función de **geolocalización**. ¿Quieres saber exactamente dónde se encuentra tu pedido en tiempo real? ¡Ahora es posible! Nuestra app te muestra la ubicación exacta de tus productos, asegurando que lleguen a tiempo y al lugar correcto. Además, si eres distribuidor, esta herramienta te será de gran ayuda para optimizar tus rutas y ofrecer un servicio de excelencia a tus clientes.
 
-Buena suerte!!!
+## Características principales:
+- **Pedidos en línea**: Selecciona, agrega al carrito y confirma. ¡Así de fácil!
+- **Geolocalización en tiempo real**: Sigue el recorrido de tus productos y planifica tus entregas con precisión.
+- **Seguimiento de conductores y vendedores**: Mantente al tanto de las actividades y ubicaciones de tu equipo en campo, asegurando eficiencia y responsabilidad.
+- **Optimización de rutas para distribuidores**: Aprovecha al máximo tus rutas y reduce tiempos de entrega.
+- **Funcionamiento offline**: Incluso sin conexión a internet, nuestra aplicación te permite gestionar tus pedidos y hacer seguimientos. Una vez que te conectes de nuevo, toda la información se sincronizará automáticamente.
+
+No esperes más y descubre todo lo que la app de DHM Distribuidora tiene para ofrecerte. ¡Únete a la revolución digital y lleva tu negocio al futuro!
+
+
+- [Play store](https://play.google.com/store/apps/details?id=com.distribuidora_dhm_app)
+- [App store](https://apps.apple.com/ph/app/dhm-distribuidora/id6451025877)
+
+
+## Primera pantalla
+
+![Screenshot from 2023-10-19 23-11-31](https://github.com/DHM-DISTRIBUIDORA/.github/assets/7370358/934030f6-178b-4040-b5e4-e624c401086b)
+
+
+Al ingresar a la App la primer ventana es el listado de todos los productos que ofrecemos.
+En este pantalla es posible seleccionar y buscar productos para agregarlos al carrito de compras.
+
+
+## Alternativas del uso de la app
+
+Esta app se puede utilizar de diferentes maneras segun los roles asignados.
+
+### Es por esto que dividiremos este manual en 4 Roles principales.
+
+- [Cliente](manualCliente)
+- [Vendedor](manualVendedor)
+- [Transportista](manualTransportista)
+- [Administrador](manualAdministrador)
