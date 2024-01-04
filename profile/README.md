@@ -42,7 +42,7 @@ Esta app se puede utilizar de diferentes maneras segun los roles asignados.
 
 ### Es por esto que dividiremos este manual en 4 Roles principales.
 
-- [Cliente](../../../wiki/manualCliente)
+- [Cliente](/.github/wiki/manualCliente)
 - [Vendedor](../../../wiki/manualVendedor)
 - [Transportista](../../../wiki/manualTransportista)
 - [Administrador](../../../wiki/manualAdministrador)
