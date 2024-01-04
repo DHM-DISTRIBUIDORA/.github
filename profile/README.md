@@ -42,7 +42,7 @@ Esta app se puede utilizar de diferentes maneras segun los roles asignados.
 
 ### Es por esto que dividiremos este manual en 4 Roles principales.
 
-- [Cliente](../.github/wiki/manualCliente)
-- [Vendedor](../../../wiki/manualVendedor)
-- [Transportista](../../../wiki/manualTransportista)
-- [Administrador](../../../wiki/manualAdministrador)
+- [Cliente](https://github.com/DHM-DISTRIBUIDORA/.github/wiki/manualCliente)
+- [Vendedor](https://github.com/DHM-DISTRIBUIDORA/.github/wiki/manualVendedor)
+- [Transportista](https://github.com/DHM-DISTRIBUIDORA/.github/wiki/manualTransportista)
+- [Administrador](https://github.com/DHM-DISTRIBUIDORA/.github/wiki/manualAdministrador)
